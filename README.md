@@ -1,17 +1,16 @@
-## My Project
+## Deploying custom R frameworks with Amazon SageMaker
 
-TODO: Fill this README out!
+This repo contains sample code for deploying custom R frameworks and models with Amazon SageMaker. 
 
-Be sure to:
+### Contents
 
-* Change the title in this README
-* Edit your repository description on GitHub
+* *custom_r_inference* contains example code for deploying a custom R framework and model behind a single model SageMaker endpoint to serve online inference
 
-## Security
+### Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
-## License
+### License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
 
