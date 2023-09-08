@@ -1,0 +1,13 @@
+{
+    "DefaultUserSettings": {
+      "KernelGatewayAppSettings": {
+        "CustomImages": [
+            {
+                     "ImageName": "custom-r",
+                     "ImageVersionNumber": 1,
+                     "AppImageConfigName": "custom-r-image-config"
+                  }
+              ]
+          }
+      }
+  }
